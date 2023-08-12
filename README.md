@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Vocaloid2048's GitHub stats]([[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=Vocaloid2048&show_icons=true&theme=tokyonight)])](https://github.com/anuraghazra/github-readme-stats)
+[![Vocaloid2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vocaloid2048&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Vocaloid2048/Vocaloid2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
