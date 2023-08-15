@@ -10,7 +10,7 @@
 💎 【Genshin Spirit 原神小幫手】專案始創者 (Project Organizer)<br>
 🎇 【Honkai Stargazer 崩壞•星穹觀星者】專案始創者 (Project Organizer)<br>
 
-![Discord](https://img.shields.io/badge/@vocaloid2048-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/@vocaloid2048-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/417665898548166678)
 
 [![Offical Discord Server](https://dcbadge.vercel.app/api/server/uXatcbWKv2?theme=discord-inverted)](https://discord.gg/uXatcbWKv2)
 
