@@ -19,13 +19,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Typescript](https://img.shields.io/badge/typescript-%2307405e.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+## 💤 用緊嘅 IDE I'm using
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 學緊嘅語言 Language I'm learning
-![PostgreSQL](https://img.shields.io/badge/postgresql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript-%2307405e.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2307405e.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## 📊 喺度做過乜嘢 What I have done in there
 
