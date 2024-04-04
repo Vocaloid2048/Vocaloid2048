@@ -15,6 +15,7 @@
 
 [![Discord](https://img.shields.io/badge/@vocaloid2048-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/417665898548166678)
 [![Offical Discord Server](https://dcbadge.vercel.app/api/server/uXatcbWKv2?theme=discord-inverted)](https://discord.gg/uXatcbWKv2)
+
 <a href="https://www.buymeacoffee.com/codingband"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Vocchi&emoji=🎸&slug=codingband&button_colour=ff6198&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ### 🔥目前主力貢獻的專案 The project I'm mainly contributing currently
@@ -27,11 +28,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 學緊嘅語言 Language(s) I'm learning
+### 🍳 學緊嘅語言 Language(s) I'm learning
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## 擅長平台 Platform I'm familiar with
+### ⛳ 擅長嘅平台 Platform I'm familiar with
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
