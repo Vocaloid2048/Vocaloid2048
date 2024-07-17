@@ -7,7 +7,6 @@
 > "您好吖，我係 Voc-夜芷冰，可以叫我 `Voc` 或者 `芷冰`。"
 
 🎸  *Vocchi the rock - in [Coding Band](https://discord.gg/uXatcbWKv2) !* <br>
-🏫  HKUST Year 1<br>
 🎮  有玩崩三&原神&明日&崩窮 (Honkai 3rd & Genshin & Honkai Star Rail Player)<br>
 📷  業餘攝影&剪接 (Amateur Photographer and Clipper)<br>
 💎 【[Genshin Spirit 原神小幫手](https://github.com/Coding-band/Genshin-Spirit)】專案始創者 (Project Organizer)<br>
