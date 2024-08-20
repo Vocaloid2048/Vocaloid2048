@@ -16,7 +16,7 @@
 [![Offical Discord Server](https://dcbadge.vercel.app/api/server/uXatcbWKv2?theme=discord-inverted)](https://discord.gg/uXatcbWKv2)
 
 <a href="https://www.buymeacoffee.com/codingband"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Vocchi&emoji=🎸&slug=codingband&button_colour=ff6198&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
+[![wakatime](https://wakatime.com/badge/user/ca727ba5-9112-4612-b454-d5e407277a51.svg)](https://wakatime.com/@ca727ba5-9112-4612-b454-d5e407277a51)
 ### 🔥目前主力貢獻的專案 The project I'm mainly contributing currently
 <a href="https://github.com/Coding-band/Honkai-Stargazer"><img src="https://github.com/Vocaloid2048/Vocaloid2048/assets/47070571/f7f3c4e6-2003-40c5-8397-35c087e69368" width="670" height="180"></a>
 
