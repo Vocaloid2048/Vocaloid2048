@@ -37,5 +37,6 @@
 ### 📊 喺度做過乜嘢 What I have done in there
 <a href="https://github.com/Coding-band/Honkai-Stargazer"><img src="https://raw.githubusercontent.com/Coding-band/Honkai-Stargazer/refs/heads/v3.x/CMP_Voc_Page/composeApp/icon/app_icon.png" width="64" height="64"></a>
 <a href="https://github.com/Coding-band/Genshin-Spirit"><img src="https://raw.githubusercontent.com/Coding-band/Genshin-Spirit/release-master/app/src/main/res/drawable/app_ico.webp" width="64" height="64"></a>
+<a href="https://github.comVocaloid2048/PEAK-zh-tw-Translation"><img src="https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/Logo.png" width="64" height="64"></a>
 
 [![Vocaloid2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vocaloid2048&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
