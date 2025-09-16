@@ -1,7 +1,7 @@
 <a><p align="center">![yunli_banner](https://voc2048.com/yunli_banner.png)<br></a>*🎸 Vocchi the rock - in [Coding Band](https://discord.gg/uXatcbWKv2)*</p>
 
 
-## 🏠 關於我 About Me
+## 🏠 關於我 About Me 
 🪁 安安~ 我是 `Voc-夜芷冰`，可以稱呼我 `夜芷冰` 或者 `芷冰`。<br>
 🖥️ 一位來自香港的業餘跨平台應用程式開發者<br>
 💡 擅長前端應用程式開發，尤其是 Android 原生開發<br>
@@ -11,6 +11,7 @@
 🖥️ I'm an amateur multiplatform app developer from Hong Kong.
 💡 I'm good at front-end application development, especially native Android development.
 ```
+![Make With Passion](https://img.shields.io/badge/make_with_🔥-orange) [![wakatime](https://wakatime.com/badge/user/ca727ba5-9112-4612-b454-d5e407277a51.svg)](https://wakatime.com/@ca727ba5-9112-4612-b454-d5e407277a51)
 
 ### 🔮 座右銘 Motto
 **`「變量為何要羨慕常數？」`** - 從一場不歡而散的合作而來的座右銘<br>
