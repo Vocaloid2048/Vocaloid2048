@@ -20,10 +20,11 @@
 <a href="https://discord.com/users/417665898548166678">![My Discord Account](https://dcbadge.limes.pink/api/shield/417665898548166678?compact=true)</a> <a href="https://discord.gg/uXatcbWKv2">![My Discord Server](https://dcbadge.limes.pink/api/server/https://discord.gg/uXatcbWKv2?theme=clean)</a>
 
 ## 🔥做過的專案 Projects
-|<p align="center"><a href="https://github.com/Vocaloid2048/PEAK-zh-tw-Translation"><img src="https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/Logo.png" width="128" height="64"></a></p>|PEAK 繁體中文翻譯模組<br>一個為PEAK繁中玩家提供非官方繁體中文翻譯的MOD<br>A unofficial Traditional Chinese translation mod for PEAK players.<br>[Thunderstore](https://thunderstore.io/c/peak/p/Vocaloid2048/PEAK_Traditional_Chinese_Translation/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub Release](https://github.com/Coding-band/Honkai-Stargazer/releases)|
+|Icon|簡介 Brief Intro|
 |-|-|
-|<p align="center"><a href="https://github.com/Coding-band/Honkai-Stargazer"><img src="https://raw.githubusercontent.com/Coding-band/Honkai-Stargazer/refs/heads/v3.x/CMP_Voc_Page/composeApp/icon/app_icon.png" width="64" height="64"></a></p>|Stargazer (星穹觀星者)<br>一款為協助開拓者節省找資料的時間而開發的跨平台App<br>A multiplatform app designed to help trailblazers save time searching for information.<br>[Play Store](https://play.google.com/store/apps/details?id=com.voc.stargazer3)&nbsp;&nbsp;&nbsp;&nbsp;[App Store](https://apps.apple.com/us/app/stargazer-3-unofficial/id6740016841)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub Release](https://github.com/Vocaloid2048/PEAK-zh-tw-Translation/releases)|
-|<p align="center"><a href="https://github.com/Coding-band/Genshin-Spirit"><img src="https://raw.githubusercontent.com/Coding-band/Genshin-Spirit/release-master/app/src/main/res/drawable/app_ico.webp" width="64" height="64"></a></p>|`[已封存]` Genshin Spirit (原神小幫手)<br>一款為原神旅行者而設的App，集合了素材計算、角色資料、當前體力等實時數據<br>A Genshin Impact helper app designed for travelers, featuring material calculations, character information, and real-time stamina data.<br>[GitHub](https://github.com/Coding-band/Genshin-Spirit)|
+|<p align="center"><a href="https://github.com/Vocaloid2048/PEAK-zh-tw-Translation"><img src="https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/Logo.png" width="128" height="64"></a></p>|<p align="start">**PEAK 繁體中文翻譯模組**<br>一個為PEAK繁中玩家提供非官方繁體中文翻譯的MOD<br>A unofficial Traditional Chinese translation mod for PEAK players.<br>[Thunderstore](https://thunderstore.io/c/peak/p/Vocaloid2048/PEAK_Traditional_Chinese_Translation/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub Release](https://github.com/Coding-band/Honkai-Stargazer/releases)</p>|
+|<p align="center"><a href="https://github.com/Coding-band/Honkai-Stargazer"><img src="https://raw.githubusercontent.com/Coding-band/Honkai-Stargazer/refs/heads/v3.x/CMP_Voc_Page/composeApp/icon/app_icon.png" width="64" height="64"></a></p>|**Stargazer (星穹觀星者)**<br>一款為協助開拓者節省找資料的時間而開發的跨平台App<br>A multiplatform app designed to help trailblazers save time searching for information.<br>[Play Store](https://play.google.com/store/apps/details?id=com.voc.stargazer3)&nbsp;&nbsp;&nbsp;&nbsp;[App Store](https://apps.apple.com/us/app/stargazer-3-unofficial/id6740016841)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub Release](https://github.com/Vocaloid2048/PEAK-zh-tw-Translation/releases)|
+|<p align="center"><a href="https://github.com/Coding-band/Genshin-Spirit"><img src="https://raw.githubusercontent.com/Coding-band/Genshin-Spirit/release-master/app/src/main/res/drawable/app_ico.webp" width="64" height="64"></a></p>|`[已封存]` **Genshin Spirit (原神小幫手)**<br>一款為原神旅行者而設的App，集合了素材計算、角色資料、當前體力等實時數據<br>A Genshin Impact helper app designed for travelers, featuring material calculations, character information, and real-time stamina data.<br>[GitHub](https://github.com/Coding-band/Genshin-Spirit)|
 
 ## 🛷 技術棧 Tech Stack
 ```kotlin
@@ -43,6 +44,7 @@ Frameworks:
   │  ├─ Android Native (XML)
   │  └─ React Native
   └─ Backend
+     ├─ Discord.js
      ├─ Node.js
      ├─ Express.js
      ├─ MySQL
