@@ -15,7 +15,10 @@
 
 ### 🔮 座右銘 Motto
 **`「變量為何要羨慕常數？」`** - 從一場不歡而散的合作而來的座右銘<br>
-**-> `"Why should variables envy constants?"`** - A motto born from an unpleasant collaboration
+> `"Why should variables envy constants?"` - A motto born from an unpleasant collaboration
+
+**`「在擁有前就已經做好捨棄的準備。」`** - 從一次單向的付出而來的座右銘<br>
+> `Be prepared to give it up before possessing it.` - A motto derived from a one-way act of giving.
 
 ### 📫 聯絡我 Contact Me
 <a href="https://discord.com/users/417665898548166678">![My Discord Account](https://dcbadge.limes.pink/api/shield/417665898548166678?compact=true)</a> <a href="https://discord.gg/uXatcbWKv2">![My Discord Server](https://dcbadge.limes.pink/api/server/https://discord.gg/uXatcbWKv2?theme=clean)</a>
